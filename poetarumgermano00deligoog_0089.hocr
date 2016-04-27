@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./poetarumgermano00deligoog_0089.png"; bbox 0 0 442 581; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 88 30 410 500">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 88 30 410 500">
+     <span class='ocr_line' id='line_1_1' title="bbox 88 30 410 500; baseline 0.14 -57"><span class='ocrx_word' id='word_1_1' title='bbox 88 30 410 500; x_wconf 95' lang='lat' dir='ltr'>   </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 37 410 406 510">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 37 410 344 490">
+     <span class='ocr_line' id='line_1_2' title="bbox 37 410 344 456; baseline 0.003 -5"><span class='ocrx_word' id='word_1_2' title='bbox 37 411 44 446; x_wconf 78' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_3' title='bbox 95 410 320 456; x_wconf 46' lang='lat' dir='ltr'>‘trum</span> <span class='ocrx_word' id='word_1_4' title='bbox 328 425 344 439; x_wconf 71' lang='lat'>²·</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 122 444 334 451; baseline -0.009 0"><span class='ocrx_word' id='word_1_5' title='bbox 122 444 145 451; x_wconf 59' lang='lat' dir='ltr'>„m</span> <span class='ocrx_word' id='word_1_6' title='bbox 160 444 167 451; x_wconf 79' lang='grc'><strong><em>.</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 332 446 334 449; x_wconf 81' lang='grc'>,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 82 442 337 490; baseline 0.043 -11"><span class='ocrx_word' id='word_1_8' title='bbox 82 442 337 490; x_wconf 52' lang='lat' dir='ltr'>&#39;fxsszzzffi-mffi?</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 340 475 406 510">
+     <span class='ocr_line' id='line_1_5' title="bbox 340 475 406 510; baseline 0 -9"><span class='ocrx_word' id='word_1_9' title='bbox 340 494 354 509; x_wconf 44' lang='lat' dir='ltr'>d</span> <span class='ocrx_word' id='word_1_10' title='bbox 362 475 406 510; x_wconf 54' lang='grc' dir='ltr'>,μ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
